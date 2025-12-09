@@ -8,8 +8,7 @@
 //Menu principal
 int opt = 0; //será para escoger la opción que se necesite
 int ret; //Por si se necesita retornar
-//Definir voids
-
+//Créditos: DELGADO FLORES JESÚS GIOVANI y LUNA GUTIERRES SAYURI
 
 //Programa principal
 int main(){
